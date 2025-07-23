@@ -1,5 +1,5 @@
 > ⚠️ **Archived Project Notice**  
-> This project is no longer maintained. Pycord Manager was an auxiliary bot for the Pycord server, developed in 2022.  
+> This project is no longer maintained. Pycord Manager was an auxiliary bot for the Pycord server, forked by **@ephemeral8997** in 2022.  
 > It is preserved for reference only. No new features or updates will be made.
 
 <div align="center">  
