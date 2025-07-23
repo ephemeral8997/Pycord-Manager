@@ -1,6 +1,10 @@
-<div align="center">
-  <h1>Pycord Manager</h1>
-  <h2>A Discord bot made for the Pycord Discord server</h2>
+> ⚠️ **Archived Project Notice**  
+> This project is no longer maintained. Pycord Manager was an auxiliary bot for the Pycord server, developed in 2022.  
+> It is preserved for reference only. No new features or updates will be made.
+
+<div align="center">  
+  <h1>Pycord Manager</h1>  
+  <h2>A Discord bot made for the Pycord Discord server</h2>  
 </div>
 
 ## How to Contribute
